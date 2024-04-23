@@ -1,0 +1,11 @@
+* {
+  .link {
+    text-decoration: none;
+    color: inherit;
+  }
+} 
+body{
+     &::-webkit-scrollbar{
+                display: none;
+            }
+}
